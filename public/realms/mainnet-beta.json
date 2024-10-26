@@ -3696,4 +3696,14 @@
     "website": "https://pibble.xyz",
     "twitter": "@PibbleSolana"
   }
+   {
+    "symbol": "ARMY⚔️",
+    "bannerImage": "/realms/armyDAO.png",
+    "displayName": "ARMY⚔️",
+    "programId": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw",
+    "realmId": "3568i98DhEvEnQEchxysf48ypeQDsimXy78sYCULDxAP",
+    "website": "-",
+    "twitter": "-",
+    "ogImage": "/realms/armyDAO.png"
+  },
   ]
